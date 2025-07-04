@@ -17,15 +17,15 @@ Aquí comparto parte de mi proceso como dev: desde proyectos personales hasta ex
 
 ## 🚀 Actualmente
 - Aprendiendo más sobre **arquitectura de software** y **despliegues limpios**
-- Creando contenido educativo en [TikTok](https://www.tiktok.com/@elrincondey)
+- Creando contenido educativo en [TikTok](https://www.tiktok.com/@elrincondeyeye10)
 - Compartiendo ideas y fragmentos de vida en [Instagram](https://www.instagram.com/y.mc_10)
 
 ---
 
 ## 📫 ¿Hablamos?
 - [LinkedIn](https://www.linkedin.com/in/yefer-mosquera-cordoba-416881243/)
-- [Atom.bio]([https://atom.bio/yefer](https://www.atom.bio/yeye200810))
-- Contacto directo vía "yexcordoba@outlook.com"
+- [Atom.bio](https://www.atom.bio/yeye200810)
+- Contacto directo vía yexcordoba@outlook.com
 
 ---
 
