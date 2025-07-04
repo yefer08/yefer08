@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Yefer - (yeye)
 
-<!--
-**yefer08/yefer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software con visión, propósito y café ☕  
+Me apasiona crear soluciones simples para problemas reales.  
+Aquí comparto parte de mi proceso como dev: desde proyectos personales hasta experimentos random.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- 💻 JavaScript | Java | Python
+- 🌐 React | Node.js | 
+- 🧪 Git | GitHub | Sql | 
+- 🎨 HTML | CSS |
+
+---
+
+## 🚀 Actualmente
+- Aprendiendo más sobre **arquitectura de software** y **despliegues limpios**
+- Creando contenido educativo en [TikTok](https://www.tiktok.com/@elrincondey)
+- Compartiendo ideas y fragmentos de vida en [Instagram](https://www.instagram.com/y.mc_10)
+
+---
+
+## 📫 ¿Hablamos?
+- [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+- [Atom.bio](https://atom.bio/yefer)
+- Contacto directo vía "yexcordoba@outlook.com"
+
+---
+
+> “No solo se trata de programar. Se trata de crear con intención.”
+
