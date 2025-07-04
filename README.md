@@ -23,8 +23,8 @@ Aquí comparto parte de mi proceso como dev: desde proyectos personales hasta ex
 ---
 
 ## 📫 ¿Hablamos?
-- [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
-- [Atom.bio](https://atom.bio/yefer)
+- [LinkedIn](https://www.linkedin.com/in/yefer-mosquera-cordoba-416881243/)
+- [Atom.bio]([https://atom.bio/yefer](https://www.atom.bio/yeye200810))
 - Contacto directo vía "yexcordoba@outlook.com"
 
 ---
